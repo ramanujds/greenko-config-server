@@ -23,4 +23,4 @@ server:
 
 app:
   message:
-    welcome: "Hello from Asset Service!"
+    welcome: "Hey there! Welcome to the Asset Service!"
