@@ -1,4 +1,7 @@
 management:
+  info:
+    env:
+      enabled: true
   endpoint:
     health:
       probes:
